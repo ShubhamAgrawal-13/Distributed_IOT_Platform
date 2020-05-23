@@ -3,10 +3,12 @@
 -----------------------------------------------------------------------------------------------------------------------------
 Distributed platform that provides build, development and deployment functionalities. The platform will be able to deploy and run applications that can be used to manage a smart city.
 
-    Simple
-    Resilient
-    Fault Tolerant
-    Maintainable
+   Features of the platform:
+   -------------------------
+    1. Simple
+    2. Resilient
+    3. Fault Tolerant
+    4. Maintainable
 
 # Architecture:
 
