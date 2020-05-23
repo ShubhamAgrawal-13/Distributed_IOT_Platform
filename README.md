@@ -15,7 +15,7 @@ Distributed platform that provides build, development and deployment functionali
 ![big picture image](Report/final.png)
 
 -----------------------------------------------------------------------------------------------------------------------------
-# To boot up the platform, run the following command :
+### To boot up the platform, run the following command :
      $ sudo python3 init.py
      
 ----------------------------------------------------------------------------------------------------------------------------
@@ -34,7 +34,7 @@ https://localhost:3333
 2. sudo docker kill $(sudo docker ps -q)
 
 ----------------------------------------------------------------------------------------------------------------------------
-###### Communication Module
+#### Communication Module
 1. Download and setup docker , docker compose
 2. Now goto the bootstrap module and run init.py (it is doing docker-compose up for kafka)
 3. Goto the communation_module directory and import communication module
