@@ -15,8 +15,11 @@ Distributed platform that provides build, development and deployment functionali
 ![big picture image](Report/final.png)
 
 -----------------------------------------------------------------------------------------------------------------------------
-### To boot up the platform, run the following command :
-     $ sudo python3 init.py
+### To boot up the platform :
+
+   First go to the platform directory, then run the following command:
+   
+     $ sudo python3 Bootstrap/init.py
      
 ----------------------------------------------------------------------------------------------------------------------------
 
